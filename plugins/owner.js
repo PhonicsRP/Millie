@@ -36,7 +36,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'harry Bot created by *Prince*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Harry Bot created by *Prince*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
