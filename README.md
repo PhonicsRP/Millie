@@ -1,4 +1,4 @@
-<a href="https://fontmeme.com/harry-potter-font/"><img src="https://fontmeme.com/permalink/211009/9c3d633f3a1f90384cd5c0e9069cb447.png" alt="harry-potter-font" border="0"></a>
+<a href="https://fontmeme.com/harry-potter-font/"><img src="https://fontmeme.com/permalink/211009/4320da4d13b8099eaae571c9cc94c252.png" alt="harry-potter-font" border="0"></a>
 <div align="center">
         <img src="https://media.giphy.com/media/OPBZnaTaC92yA/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
