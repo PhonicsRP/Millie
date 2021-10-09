@@ -54,7 +54,7 @@ Project created by <a href="https://github.com/PrinceRP">PrinceRP</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwy" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -63,7 +63,7 @@ Click WA logo to Join Support Group 👇
 Click harry logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH" target="blank"><img align="center" src="https://i.hizliresim.com/7c9s8xy.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
