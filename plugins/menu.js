@@ -17,11 +17,11 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Millie✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️𝐌𝐈𝐋𝐋𝐈𝐄✨️━━━━━⛦
 
 
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Prince 𝐛𝐨𝐭.
-            *MILLIE*
+            *♡ 𝐌𝐈𝐋𝐋𝐈𝐄 𝐁𝐎𝐓 ♡*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
