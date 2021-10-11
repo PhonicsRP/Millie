@@ -3,18 +3,18 @@
         <img src="https://media.giphy.com/media/xTkcEHkC6P3I5VCDpm/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
 <details>
-        <summary>🥰 <b>CLICK HERE </b></summary>
+        <summary>🥰 <b>CLICK HERE 🥰 </b></summary>
 
     
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=hi+how)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=___________________________________)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="PRINCE" src="https://img.shields.io/badge/PRINCE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PRINCE" src="https://img.shields.io/badge/MILLIE BOBBY BROWN-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/PhonicsRP"><img title="Author" src="https://img.shields.io/badge/Author-PhonicsRP/Millie?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/PhonicsRP">PhonicsRP</a> to make 
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/am?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -63,7 +63,7 @@ Click WA logo to Join Support Group 👇
 Click Millie logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH" target="blank"><img align="center" src="https://i.hizliresim.com/7c9s8xy.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH" target="blank"><img align="center" src="https://i.hizliresim.com/nq0qwln.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
