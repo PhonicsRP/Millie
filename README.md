@@ -1,14 +1,14 @@
-<a href="https://fontmeme.com/Millie-potter-font/"><img src="https://fontmeme.com/permalink/211009/4320da4d13b8099eaae571c9cc94c252.png" alt="Millie-potter-font" border="0"></a>
+<a href="https://fontmeme.com/squid-game-font/"><img src="https://fontmeme.com/permalink/211011/85984c8db431b1d4bbdcadc28d94391d.png" alt="squid-game-font" border="0"></a>
 <div align="center">
         <img src="https://media.giphy.com/media/xTkcEHkC6P3I5VCDpm/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
 <details>
-        <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY⚡</b></summary>
+        <summary>🥰 <b>CLICK HERE </b></summary>
 
     
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Millie+WA+Bot+repo;Created+by+Phonics;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=hi+how)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
