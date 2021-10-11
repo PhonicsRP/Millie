@@ -1,6 +1,6 @@
-<a href="https://fontmeme.com/harry-potter-font/"><img src="https://fontmeme.com/permalink/211009/4320da4d13b8099eaae571c9cc94c252.png" alt="harry-potter-font" border="0"></a>
+<a href="https://fontmeme.com/Millie-potter-font/"><img src="https://fontmeme.com/permalink/211009/4320da4d13b8099eaae571c9cc94c252.png" alt="Millie-potter-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/OPBZnaTaC92yA/giphy.gif" alt="GIF" width="250" height="200"/>
+        <img src="https://media.giphy.com/media/xTkcEHkC6P3I5VCDpm/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
 <details>
         <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY⚡</b></summary>
@@ -8,7 +8,7 @@
     
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+HARRY+WA+Bot+repo;Created+by+Prince;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Millie+WA+Bot+repo;Created+by+Phonics;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -17,11 +17,11 @@
 <a href="#"><img title="PRINCE" src="https://img.shields.io/badge/PRINCE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/PrinceRP"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRP/harry?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/PhonicsRP"><img title="Author" src="https://img.shields.io/badge/Author-PhonicsRP/Millie?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/PrinceRP">PrinceRP</a> to make it public
+Project created by <a href="https://github.com/PhonicsRP">PhonicsRP</a> to make it public
     <br>
        | © |
         Reserved |
@@ -42,9 +42,9 @@ Project created by <a href="https://github.com/PrinceRP">PrinceRP</a> to make it
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceRP&show_icons=true&theme=dark&locale=en" alt="PrinceRP" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhonicsRP&show_icons=true&theme=dark&locale=en" alt="PhonicsRP" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRP&theme=dark" alt="PrinceRP" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhonicsRP&theme=dark" alt="PhonicsRP" /></p>
 </p>
 
 
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click harry logo to Join Support Group 2👇
+Click Millie logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH" target="blank"><img align="center" src="https://i.hizliresim.com/7c9s8xy.jpg" alt="kyrie.baran" height="200" width="200" /></a>
@@ -73,7 +73,7 @@ Click harry logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/PrinceRP/harry.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/PhonicsRP/Millie.git)
      </div>
 <br>
 <br >
@@ -93,8 +93,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/PrinceRP/harry
-$ cd harry
+$ git clone https://github.com/PhonicsRP/Millie
+$ cd Millie
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -103,8 +103,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/PrinceRP/harry
-$ cd harry
+$ git clone https://github.com/PhonicsRP/Millie
+$ cd Millie
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -117,16 +117,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, harry executives do not accept responsibility.
-By establishing the harry, you are deemed to have accepted these responsibilities.
+Absolutely, Millie executives do not accept responsibility.
+By establishing the Millie, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![PrinceRP](https://github.com/PrinceRP.png?size=100)](https://github.com/PrinceRP) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![PhonicsRP](https://github.com/PhonicsRP.png?size=100)](https://github.com/PhonicsRP) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/PrinceRP) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/PhonicsRP) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
     
