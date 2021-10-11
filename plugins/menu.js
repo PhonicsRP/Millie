@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/01/Harry-Potter-Backgrounds-for-Desktop.jpg";
+    r_text[0] = "https://www.alamy.com/millie-bobby-brown-stranger-things-3-2019-photo-credit-netflix-the-hollywood-archive-image259884583.html";
     
     
     var i = Math.floor(1*Math.random())
