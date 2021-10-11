@@ -17,11 +17,11 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Prince✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️𝐌𝐈𝐋𝐋𝐈𝐄✨️━━━━━⛦
 
 
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 PRINCE's  𝐛𝐨𝐭.
-            *H̶A̶R̶R̶Y̶ B̶O̶T̶*
+            *♡ 𝐌𝐈𝐋𝐋𝐈𝐄 𝐁𝐎𝐓 ♡*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□Harry■□■□■□■□■□
+■□■□■□■□■□Millie■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,8 +120,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime harry
-■□■□■□■□■Harry□■□■□■□■□■□
+⚠️anime Millie
+■□■□■□■□■Millie□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,9 +132,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp harry
+⚠️ex  attp Millie Bobby Brown
 ■□■□■□■□■□■□■□■□■□■□
-═════💢Harry💢═════
+═════💢Millie💢═════
 ▣▣▣▣▣▣▣▣▣Prince▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
